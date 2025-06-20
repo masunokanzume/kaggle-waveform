@@ -1,0 +1,92 @@
+[{"stream_name":"stderr","time":6.933328779,"data":"0.00s - Debugger warning: It seems that frozen modules are being used, which may\n"}
+,{"stream_name":"stderr","time":6.933404945,"data":"0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off\n"}
+,{"stream_name":"stderr","time":6.933413157,"data":"0.00s - to python to disable frozen modules.\n"}
+,{"stream_name":"stderr","time":6.933417854,"data":"0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.\n"}
+,{"stream_name":"stderr","time":7.67072661,"data":"0.00s - Debugger warning: It seems that frozen modules are being used, which may\n"}
+,{"stream_name":"stderr","time":7.670774039,"data":"0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off\n"}
+,{"stream_name":"stderr","time":7.670782236,"data":"0.00s - to python to disable frozen modules.\n"}
+,{"stream_name":"stderr","time":7.670785345,"data":"0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.\n"}
+,{"stream_name":"stderr","time":11.696822084,"data":"/tmp/ipykernel_19/2670311244.py:7: DeprecationWarning: DataFrameGroupBy.apply operated on the grouping columns. This behavior is deprecated, and in a future version of pandas the grouping columns will be excluded from the operation. Either pass `include_groups=False` to exclude the groupings or explicitly select the grouping columns after groupby to silence this warning.\n"}
+,{"stream_name":"stderr","time":11.69686223,"data":"  .apply(lambda x: x.sample(n=val_sample, replace=True, random_state=42))\n"}
+,{"stream_name":"stdout","time":12.409796425,"data":"/kaggle/working/src\n"}
+,{"stream_name":"stdout","time":12.558263998,"data":"curvefault-a\t/kaggle/input/waveform-inversion-1/CurveFault_A/seis2_1_0.npy\t/kaggle/input/waveform-inversion-1/CurveFault_A/vel2_1_0.npy\r\n"}
+,{"stream_name":"stdout","time":12.558332245999999,"data":"curvefault-a\t/kaggle/input/waveform-inversion-1/CurveFault_A/seis2_1_1.npy\t/kaggle/input/waveform-inversion-1/CurveFault_A/vel2_1_1.npy\r\n"}
+,{"stream_name":"stdout","time":12.558341755,"data":"curvefault-a\t/kaggle/input/waveform-inversion-1/CurveFault_A/seis2_1_2.npy\t/kaggle/input/waveform-inversion-1/CurveFault_A/vel2_1_2.npy\r\n"}
+,{"stream_name":"stdout","time":12.558347191,"data":"curvefault-a\t/kaggle/input/waveform-inversion-1/CurveFault_A/seis2_1_3.npy\t/kaggle/input/waveform-inversion-1/CurveFault_A/vel2_1_3.npy\r\n"}
+,{"stream_name":"stdout","time":12.558351481999999,"data":"curvefault-b\t/kaggle/input/waveform-inversion-1/CurveFault_B/seis6_1_0.npy\t/kaggle/input/waveform-inversion-1/CurveFault_B/vel6_1_0.npy\r\n"}
+,{"stream_name":"stdout","time":12.558355584,"data":"curvefault-b\t/kaggle/input/waveform-inversion-1/CurveFault_B/seis6_1_1.npy\t/kaggle/input/waveform-inversion-1/CurveFault_B/vel6_1_1.npy\r\n"}
+,{"stream_name":"stdout","time":12.558359871,"data":"curvefault-b\t/kaggle/input/waveform-inversion-1/CurveFault_B/seis6_1_2.npy\t/kaggle/input/waveform-inversion-1/CurveFault_B/vel6_1_2.npy\r\n"}
+,{"stream_name":"stdout","time":12.558363901,"data":"curvefault-b\t/kaggle/input/waveform-inversion-1/CurveFault_B/seis6_1_3.npy\t/kaggle/input/waveform-inversion-1/CurveFault_B/vel6_1_3.npy\r\n"}
+,{"stream_name":"stdout","time":12.558368057,"data":"curvevel-a\t/kaggle/input/waveform-inversion-1/CurveVel_A/data/data1.npy\t/kaggle/input/waveform-inversion-1/CurveVel_A/model/model1.npy\r\n"}
+,{"stream_name":"stdout","time":12.558373708,"data":"curvevel-a\t/kaggle/input/waveform-inversion-1/CurveVel_A/data/data2.npy\t/kaggle/input/waveform-inversion-1/CurveVel_A/model/model2.npy\r\n"}
+,{"stream_name":"stdout","time":12.558377411,"data":"curvevel-b\t/kaggle/input/waveform-inversion-1/CurveVel_B/data/data1.npy\t/kaggle/input/waveform-inversion-1/CurveVel_B/model/model1.npy\r\n"}
+,{"stream_name":"stdout","time":12.55838864,"data":"curvevel-b\t/kaggle/input/waveform-inversion-1/CurveVel_B/data/data2.npy\t/kaggle/input/waveform-inversion-1/CurveVel_B/model/model2.npy\r\n"}
+,{"stream_name":"stdout","time":12.558391598,"data":"flatfault-a\t/kaggle/input/waveform-inversion-1/FlatFault_A/seis2_1_0.npy\t/kaggle/input/waveform-inversion-1/FlatFault_A/vel2_1_0.npy\r\n"}
+,{"stream_name":"stdout","time":12.558394221,"data":"flatfault-a\t/kaggle/input/waveform-inversion-1/FlatFault_A/seis2_1_1.npy\t/kaggle/input/waveform-inversion-1/FlatFault_A/vel2_1_1.npy\r\n"}
+,{"stream_name":"stdout","time":12.55839691,"data":"flatfault-a\t/kaggle/input/waveform-inversion-1/FlatFault_A/seis2_1_2.npy\t/kaggle/input/waveform-inversion-1/FlatFault_A/vel2_1_2.npy\r\n"}
+,{"stream_name":"stdout","time":12.558400558,"data":"flatfault-a\t/kaggle/input/waveform-inversion-1/FlatFault_A/seis2_1_3.npy\t/kaggle/input/waveform-inversion-1/FlatFault_A/vel2_1_3.npy\r\n"}
+,{"stream_name":"stdout","time":12.558403293,"data":"flatfault-b\t/kaggle/input/waveform-inversion-1/FlatFault_B/seis6_1_0.npy\t/kaggle/input/waveform-inversion-1/FlatFault_B/vel6_1_0.npy\r\n"}
+,{"stream_name":"stdout","time":12.558405983,"data":"flatfault-b\t/kaggle/input/waveform-inversion-1/FlatFault_B/seis6_1_1.npy\t/kaggle/input/waveform-inversion-1/FlatFault_B/vel6_1_1.npy\r\n"}
+,{"stream_name":"stdout","time":12.558408732,"data":"flatfault-b\t/kaggle/input/waveform-inversion-1/FlatFault_B/seis6_1_2.npy\t/kaggle/input/waveform-inversion-1/FlatFault_B/vel6_1_2.npy\r\n"}
+,{"stream_name":"stdout","time":12.558412965,"data":"flatfault-b\t/kaggle/input/waveform-inversion-1/FlatFault_B/seis6_1_3.npy\t/kaggle/input/waveform-inversion-1/FlatFault_B/vel6_1_3.npy\r\n"}
+,{"stream_name":"stdout","time":12.558418606,"data":"flatvel-a\t/kaggle/input/waveform-inversion-1/FlatVel_A/data/data1.npy\t/kaggle/input/waveform-inversion-1/FlatVel_A/model/model1.npy\r\n"}
+,{"stream_name":"stdout","time":12.558423091,"data":"flatvel-a\t/kaggle/input/waveform-inversion-1/FlatVel_A/data/data2.npy\t/kaggle/input/waveform-inversion-1/FlatVel_A/model/model2.npy\r\n"}
+,{"stream_name":"stdout","time":12.558427676,"data":"flatvel-b\t/kaggle/input/waveform-inversion-1/FlatVel_B/data/data1.npy\t/kaggle/input/waveform-inversion-1/FlatVel_B/model/model1.npy\r\n"}
+,{"stream_name":"stdout","time":12.558432283,"data":"flatvel-b\t/kaggle/input/waveform-inversion-1/FlatVel_B/data/data2.npy\t/kaggle/input/waveform-inversion-1/FlatVel_B/model/model2.npy\r\n"}
+,{"stream_name":"stdout","time":12.558437198,"data":"style-a\t/kaggle/input/waveform-inversion-1/Style_A/data/data1.npy\t/kaggle/input/waveform-inversion-1/Style_A/model/model1.npy\r\n"}
+,{"stream_name":"stdout","time":12.558441453,"data":"style-a\t/kaggle/input/waveform-inversion-1/Style_A/data/data2.npy\t/kaggle/input/waveform-inversion-1/Style_A/model/model2.npy\r\n"}
+,{"stream_name":"stdout","time":12.55844537,"data":"style-a\t/kaggle/input/waveform-inversion-1/Style_A/data/data3.npy\t/kaggle/input/waveform-inversion-1/Style_A/model/model3.npy\r\n"}
+,{"stream_name":"stdout","time":12.558449337,"data":"style-a\t/kaggle/input/waveform-inversion-1/Style_A/data/data4.npy\t/kaggle/input/waveform-inversion-1/Style_A/model/model4.npy\r\n"}
+,{"stream_name":"stdout","time":12.55845325,"data":"style-a\t/kaggle/input/waveform-inversion-1/Style_A/data/data5.npy\t/kaggle/input/waveform-inversion-1/Style_A/model/model5.npy\r\n"}
+,{"stream_name":"stdout","time":12.558457177,"data":"style-b\t/kaggle/input/waveform-inversion-1/Style_B/data/data1.npy\t/kaggle/input/waveform-inversion-1/Style_B/model/model1.npy\r\n"}
+,{"stream_name":"stdout","time":12.558466503,"data":"style-b\t/kaggle/input/waveform-inversion-1/Style_B/data/data2.npy\t/kaggle/input/waveform-inversion-1/Style_B/model/model2.npy\r\n"}
+,{"stream_name":"stdout","time":12.558470678,"data":"style-b\t/kaggle/input/waveform-inversion-1/Style_B/data/data3.npy\t/kaggle/input/waveform-inversion-1/Style_B/model/model3.npy\r\n"}
+,{"stream_name":"stdout","time":12.558474704,"data":"style-b\t/kaggle/input/waveform-inversion-1/Style_B/data/data4.npy\t/kaggle/input/waveform-inversion-1/Style_B/model/model4.npy\r\n"}
+,{"stream_name":"stdout","time":12.690483176,"data":"style-b\t/kaggle/input/waveform-inversion-1/Style_B/data/data5.npy\t/kaggle/input/waveform-inversion-1/Style_B/model/model5.npycurvefault-a\t/kaggle/input/waveform-inversion-27/CurveFault_A/seis4_1_34.npy\t/kaggle/input/waveform-inversion-27/CurveFault_A/vel4_1_34.npy\r\n"}
+,{"stream_name":"stdout","time":12.690521142,"data":"curvefault-b\t/kaggle/input/waveform-inversion-27/CurveFault_B/seis8_1_34.npy\t/kaggle/input/waveform-inversion-27/CurveFault_B/vel8_1_34.npy\r\n"}
+,{"stream_name":"stdout","time":12.690527358,"data":"curvevel-a\t/kaggle/input/waveform-inversion-27/CurveVel_A/data/data53.npy\t/kaggle/input/waveform-inversion-27/CurveVel_A/model/model53.npy\r\n"}
+,{"stream_name":"stdout","time":12.690534157,"data":"curvevel-b\t/kaggle/input/waveform-inversion-27/CurveVel_B/data/data53.npy\t/kaggle/input/waveform-inversion-27/CurveVel_B/model/model53.npy\r\n"}
+,{"stream_name":"stdout","time":12.690538676,"data":"flatfault-a\t/kaggle/input/waveform-inversion-27/FlatFault_A/seis4_1_34.npy\t/kaggle/input/waveform-inversion-27/FlatFault_A/vel4_1_34.npy\r\n"}
+,{"stream_name":"stdout","time":12.690541817,"data":"flatfault-b\t/kaggle/input/waveform-inversion-27/FlatFault_B/seis8_1_34.npy\t/kaggle/input/waveform-inversion-27/FlatFault_B/vel8_1_34.npy\r\n"}
+,{"stream_name":"stdout","time":12.690544968,"data":"flatvel-a\t/kaggle/input/waveform-inversion-27/FlatVel_A/data/data53.npy\t/kaggle/input/waveform-inversion-27/FlatVel_A/model/model53.npy\r\n"}
+,{"stream_name":"stdout","time":12.690548026,"data":"flatvel-b\t/kaggle/input/waveform-inversion-27/FlatVel_B/data/data53.npy\t/kaggle/input/waveform-inversion-27/FlatVel_B/model/model53.npy\r\n"}
+,{"stream_name":"stdout","time":12.690551063000001,"data":"style-a\t/kaggle/input/waveform-inversion-27/Style_A/data/data133.npy\t/kaggle/input/waveform-inversion-27/Style_A/model/model133.npy\r\n"}
+,{"stream_name":"stdout","time":12.947547927,"data":"style-b\t/kaggle/input/waveform-inversion-27/Style_B/data/data133.npy\t/kaggle/input/waveform-inversion-27/Style_B/model/model133.npyOverwriting dataset.py\n"}
+,{"stream_name":"stdout","time":12.968319744,"data":"Overwriting train.py\n"}
+,{"stream_name":"stdout","time":18.940732302,"data":"2025-04-12 19:44:14.507134: E external/local_xla/xla/stream_executor/cuda/cuda_fft.cc:477] Unable to register cuFFT factory: Attempting to register factory for plugin cuFFT when one has already been registered\r\n"}
+,{"stream_name":"stdout","time":19.143714285,"data":"WARNING: All log messages before absl::InitializeLog() is called are written to STDERR\r\n"}
+,{"stream_name":"stdout","time":19.143750551,"data":"E0000 00:00:1744487054.712943      49 cuda_dnn.cc:8310] Unable to register cuDNN factory: Attempting to register factory for plugin cuDNN when one has already been registered\r\n"}
+,{"stream_name":"stdout","time":19.194216057,"data":"E0000 00:00:1744487054.767175      49 cuda_blas.cc:1418] Unable to register cuBLAS factory: Attempting to register factory for plugin cuBLAS when one has already been registered\r\n"}
+,{"stream_name":"stdout","time":36.392909039,"data":"Namespace(device='cuda', file_size=100, anno_path='./inputs', train_anno='./inputs/train.txt', val_anno='./inputs/val.txt', output_path='Invnet_models/openfwi_cnn_1/', log_path='Invnet_models/openfwi_cnn_1/', save_name='openfwi_cnn_1', suffix=None, model='InversionNet', up_mode=None, sample_spatial=1.0, sample_temporal=1, batch_size=256, lr=0.0001, lr_milestones=[], momentum=0.9, weight_decay=0.0001, lr_gamma=0.1, lr_warmup_epochs=0, epoch_block=1, num_block=1, workers=4, k=1, print_freq=50, resume=None, start_epoch=0, lambda_g1v=1.0, lambda_g2v=0.0, sync_bn=False, world_size=2, dist_url='env://', tensorboard=True, epochs=1)\r\n"}
+,{"stream_name":"stdout","time":36.392974953,"data":"torch version:  2.5.1+cu124\r\n"}
+,{"stream_name":"stdout","time":36.39297915,"data":"torchvision version:  0.20.1+cu124\r\n"}
+,{"stream_name":"stdout","time":36.392981858,"data":"Not using distributed mode\r\n"}
+,{"stream_name":"stdout","time":36.392984374,"data":"Loading data\r\n"}
+,{"stream_name":"stdout","time":36.392986769,"data":"Loading training data\r\n"}
+,{"stream_name":"stdout","time":36.392989148,"data":"Loading validation data\r\n"}
+,{"stream_name":"stdout","time":36.392991992,"data":"Creating data loaders\r\n"}
+,{"stream_name":"stdout","time":36.392995674,"data":"Creating model\r\n"}
+,{"stream_name":"stdout","time":36.950637256,"data":"Start training\r\n"}
+,{"stream_name":"stdout","time":373.725372585,"data":"Epoch: [0]  [ 0/13]  eta: 1:12:56  lr: 0.0002  samples/s: 3.980  loss: 0.6699 (0.6699)  loss_g1v: 0.6699 (0.6699)  loss_g2v: 0.6591 (0.6591)  time: 336.6499  data: 272.3171  max mem: 15472\r\n"}
+,{"stream_name":"stdout","time":1077.277258071,"data":"Epoch: [0] Total time: 0:17:20\r\n"}
+,{"stream_name":"stdout","time":1313.306972066,"data":"Test:  [0/4]  eta: 0:15:44  loss: 0.4842 (0.4842)  loss_g1v: 0.4842 (0.4842)  loss_g2v: 0.3226 (0.3226)  time: 236.0070  data: 235.6906  max mem: 15472\r\n"}
+,{"stream_name":"stdout","time":1326.384074672,"data":"Test: Total time: 0:04:09\r\n"}
+,{"stream_name":"stdout","time":1326.384152553,"data":" * Loss 0.47420304\r\n"}
+,{"stream_name":"stdout","time":1326.384160263,"data":"\r\n"}
+,{"stream_name":"stdout","time":1326.892664045,"data":"saving checkpoint at epoch:  0\r\n"}
+,{"stream_name":"stdout","time":1326.892694553,"data":"current best loss:  0.47420304268598557\r\n"}
+,{"stream_name":"stdout","time":1326.892700801,"data":"current best epoch:  0\r\n"}
+,{"stream_name":"stdout","time":1327.4009783,"data":"Training time 0:21:30\r\n"}
+,{"stream_name":"stdout","time":1333.204434382,"data":"total 560M\r\n"}
+,{"stream_name":"stdout","time":1333.204480765,"data":"280M -rw-r--r-- 1 root root 280M Apr 12 20:06 checkpoint.pth\r\n"}
+,{"stream_name":"stdout","time":1333.204486631,"data":"4.0K drwxr-xr-x 4 root root 4.0K Apr 12 19:44 logs\r\n"}
+,{"stream_name":"stdout","time":1333.204490329,"data":"280M -rw-r--r-- 1 root root 280M Apr 12 20:06 model_1.pth\r\n"}
+,{"stream_name":"stderr","time":1336.603148439,"data":"/usr/local/lib/python3.11/dist-packages/traitlets/traitlets.py:2915: FutureWarning: --Exporter.preprocessors=[\"remove_papermill_header.RemovePapermillHeader\"] for containers is deprecated in traitlets 5.0. You can pass `--Exporter.preprocessors item` ... multiple times to add items to a list.\n"}
+,{"stream_name":"stderr","time":1336.603209068,"data":"  warn(\n"}
+,{"stream_name":"stderr","time":1336.650817745,"data":"[NbConvertApp] Converting notebook __notebook__.ipynb to notebook\n"}
+,{"stream_name":"stderr","time":1336.935538347,"data":"[NbConvertApp] Writing 87719 bytes to __notebook__.ipynb\n"}
+,{"stream_name":"stderr","time":1338.391457026,"data":"/usr/local/lib/python3.11/dist-packages/traitlets/traitlets.py:2915: FutureWarning: --Exporter.preprocessors=[\"nbconvert.preprocessors.ExtractOutputPreprocessor\"] for containers is deprecated in traitlets 5.0. You can pass `--Exporter.preprocessors item` ... multiple times to add items to a list.\n"}
+,{"stream_name":"stderr","time":1338.391524821,"data":"  warn(\n"}
+,{"stream_name":"stderr","time":1338.422898199,"data":"[NbConvertApp] Converting notebook __notebook__.ipynb to html\n"}
+,{"stream_name":"stderr","time":1339.475964836,"data":"[NbConvertApp] Writing 397816 bytes to __results__.html\n"}
+]
